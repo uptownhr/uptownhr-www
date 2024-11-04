@@ -15393,8 +15393,8 @@ __metadata:
   linkType: hard
 
 "supertokens-node@npm:^12.1.6":
-  version: 12.1.6
-  resolution: "supertokens-node@npm:12.1.6"
+  version: 12.1.7
+  resolution: "supertokens-node@npm:12.1.7"
   dependencies:
     axios: 0.21.4
     body-parser: 1.20.1
@@ -15409,7 +15409,7 @@ __metadata:
     supertokens-js-override: ^0.0.4
     twilio: ^3.76.0
     verify-apple-id-token: ^2.1.0
-  checksum: 09f60c9818156705294a446a9be480106bf5aa7ede9f046955b828d6d8ea8ac0d2791839dbefbcd0b0441ed348bcb3c50a9e77541a64ec08323d6335e14defaa
+  checksum: 48f66dd6c293786e8537fba88f9795fafd1a2a4b4c5abc2cbf1566c0d0534caa59d52b5092038fe1362adfd2f092c4229507f35c76bbd4e4ce7d517430467fa8
   languageName: node
   linkType: hard
 
