@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.7.0](https://github.com/uptownhr/uptownhr/compare/v1.6.0...v1.7.0) (2024-05-29)
+
+
+### Features
+
+* added a blog with the first article ([71288d0](https://github.com/uptownhr/uptownhr/commit/71288d0d30e6bc20e47afe1f74deba794be33340))
+* added a contact me link ([5a19f37](https://github.com/uptownhr/uptownhr/commit/5a19f37747981eabb57e7afaba1efb971bddea31))
+* added X link ([9f5b4c9](https://github.com/uptownhr/uptownhr/commit/9f5b4c9948b30521898fbd793bb675adecabcfac))
+* deno hello world ([4e4674f](https://github.com/uptownhr/uptownhr/commit/4e4674ffd0a093419895e0ef1e91b6706dd44105))
+* publishing emacs keybindings ([51fbe05](https://github.com/uptownhr/uptownhr/commit/51fbe055d73b457c0570df208990601429ee54ab))
+* using uptown.jpg for default social og ([5a9d071](https://github.com/uptownhr/uptownhr/commit/5a9d0712afb55d7b62ae98fd4d2aa1aea4d7fbee))
+
+
+### Bug Fixes
+
+* excluding draft from sitemap ([3d97cc4](https://github.com/uptownhr/uptownhr/commit/3d97cc45e87c4a95fdd98701cd074eabd178cd0a))
+* path from draft directory ([684e4e8](https://github.com/uptownhr/uptownhr/commit/684e4e8f175b1d4332ef45ab0671f8d25cb49e9c))
+* typo ([ce0e10f](https://github.com/uptownhr/uptownhr/commit/ce0e10f5af167092601c44a3b31715528954f231))
+* typos ([88d3e74](https://github.com/uptownhr/uptownhr/commit/88d3e74b5df8e914fc43dff0f658b521aaf7759f))
+* using heroImage for twitter og ([ee262d4](https://github.com/uptownhr/uptownhr/commit/ee262d4b950757bc7ad09f031724a18e5ee3a5ba))
+
 ## [1.6.0](https://github.com/uptownhr/uptownhr/compare/v1.5.6...v1.6.0) (2024-03-12)
 
 
