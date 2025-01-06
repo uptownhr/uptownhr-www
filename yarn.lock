@@ -4329,10 +4329,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:18.17.13":
-  version: 18.17.13
-  resolution: "@types/node@npm:18.17.13"
-  checksum: d70f263b7591f3993ddc348b809c867f9e4cc5151c7108ffdc89f32777da829e14a471932357da099afbd8db03f62bfc8119cd2d56f06b826bb28bb879feaf9f
+"@types/node@npm:18.19.70":
+  version: 18.19.70
+  resolution: "@types/node@npm:18.19.70"
+  dependencies:
+    undici-types: ~5.26.4
+  checksum: 6ce382b659a03fb694b8af4bbf3a397c0f8b6448ab4c0f17fc58de8fe649c474146b88c0317ab0ccb50ce9e251464498b0aa43227f1626d4f65bd196cbae6764
   languageName: node
   linkType: hard
 
@@ -16083,6 +16085,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"undici-types@npm:~5.26.4":
+  version: 5.26.5
+  resolution: "undici-types@npm:5.26.5"
+  checksum: 3192ef6f3fd5df652f2dc1cd782b49d6ff14dc98e5dced492aa8a8c65425227da5da6aafe22523c67f035a272c599bb89cfe803c1db6311e44bed3042fc25487
+  languageName: node
+  linkType: hard
+
 "undici@npm:^5.22.0":
   version: 5.23.0
   resolution: "undici@npm:5.23.0"
@@ -16363,7 +16372,7 @@ __metadata:
     "@nxtensions/astro": ^16.0.0
     "@prisma/client": ^5.1.1
     "@types/jest": 29.5.4
-    "@types/node": 18.17.13
+    "@types/node": 18.19.70
     "@types/storejs": ^2.0.3
     "@types/uuid": ^9.0.0
     "@typescript-eslint/eslint-plugin": ^6.0.0
