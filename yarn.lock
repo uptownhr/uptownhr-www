@@ -6735,6 +6735,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"core-js@npm:^3.38.1":
+  version: 3.40.0
+  resolution: "core-js@npm:3.40.0"
+  checksum: fc962b93470fd4a129555c765b630c1741fc38706bca68779879f0feaef3b6eec11a33904e3111b2b0e8ba206e8cfbc2a70193271227cfa2f2d13a986f78e557
+  languageName: node
+  linkType: hard
+
 "core-util-is@npm:1.0.2":
   version: 1.0.2
   resolution: "core-util-is@npm:1.0.2"
@@ -13643,12 +13650,14 @@ __metadata:
   linkType: hard
 
 "posthog-js@npm:^1.132.0":
-  version: 1.132.0
-  resolution: "posthog-js@npm:1.132.0"
+  version: 1.206.1
+  resolution: "posthog-js@npm:1.206.1"
   dependencies:
+    core-js: ^3.38.1
     fflate: ^0.4.8
     preact: ^10.19.3
-  checksum: 191b748126c4b57b1562134431f4f786c07a570d37458e8626504695ead4dc29331640536c329531c1081b72f7c2298875e8b7682e136829e4bf1e82d0af98ab
+    web-vitals: ^4.2.0
+  checksum: 34bab1e8948e834815abf5640f6a802def7c192b996e33195407977de67a31407de5c7889e65d37fa74d33a39589767072176260583c18e0e144ee16686748ee
   languageName: node
   linkType: hard
 
@@ -16786,6 +16795,13 @@ __metadata:
   version: 2.0.1
   resolution: "web-namespaces@npm:2.0.1"
   checksum: b6d9f02f1a43d0ef0848a812d89c83801d5bbad57d8bb61f02eb6d7eb794c3736f6cc2e1191664bb26136594c8218ac609f4069722c6f56d9fc2d808fa9271c6
+  languageName: node
+  linkType: hard
+
+"web-vitals@npm:^4.2.0":
+  version: 4.2.4
+  resolution: "web-vitals@npm:4.2.4"
+  checksum: 5b3ffe1db33f23aebf8cc8560ac574401a95939baafde5841835c1bb1c01f9a2478442f319f77aa0d7914739fc2f6b020c5d5b128c16c5c77ca6be2f9dfbbde6
   languageName: node
   linkType: hard
 
